@@ -1,14 +1,27 @@
 export const dataFake = [
   {
-    "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    id: '1',
+    photo: 'assets/images/dog1.jpg',
+    title: 'Pretinho',
+    description: 'O auge da fofura esse doguinho.',
   },
   {
-    "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
-  }
+    id: '2',
+    photo: 'assets/images/dog2.jpg',
+    title: 'Max',
+    description: 'O que você acha de mim hihi..',
+  },
+  {
+    id: '3',
+    photo: 'assets/images/dog3.jpg',
+    title: 'Bob',
+    description: 'Admire minha beleza.',
+  },
+  {
+    id: '4',
+    photo: 'assets/images/dog3.jpg',
+    title: 'Rocket',
+    description: 'Cachorro fofo.',
+  },
 ]
+
